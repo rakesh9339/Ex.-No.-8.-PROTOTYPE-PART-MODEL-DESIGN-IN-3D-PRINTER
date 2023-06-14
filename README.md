@@ -45,7 +45,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/SAKTHISWAR/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/blob/main/What-is-A4-size.jpg)
+![WhatsApp Image 2023-06-15 at 00 09 44](https://github.com/rakesh9339/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121115650/3349c544-c6b0-4f86-86ed-226d2c1aaa5f)
+
 
 ### Name: RAKESH J.S
 ### Register Number: 212222230115
